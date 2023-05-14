@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "schauham21286/node-todo-CICD:latest"
+    image: "schauham21286/node-todo:latest"
     ports:
       - "8000:8000"
